@@ -1,0 +1,28 @@
+table, th, td
+{
+border: 1px solid black;
+text-align: center;
+background-color: gainsboro
+}
+
+td
+{
+    width: 150px;
+}
+
+div
+{
+    border: 1px solid black;
+    padding: 8px;
+    background-color: aliceblue
+}
+
+h1
+{
+    color: darkmagenta;
+}
+
+div h1
+{
+    color:darkblue;
+}
